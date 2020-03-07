@@ -11,7 +11,6 @@ import tk.mybatis.mapper.common.Mapper;
  * @CreateTime: 2020-03-01
  * @Description:
  */
-@Repository
 public interface UserMapper extends Mapper<UmsMember> {
 
 }
